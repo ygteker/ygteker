@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ygteker
 - 👀 I’m interested in web/mobile app development
-- 🌱 I’m currently learning CSS and JavaScript
+- 🌱 I’m currently learning React and NextJS
 - 💞️ I’m looking to collaborate on new fancy looking projects 
 - 📫 How to reach me on Twitter @stinkycaravan
 
